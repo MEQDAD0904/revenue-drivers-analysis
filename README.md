@@ -3,7 +3,7 @@
 > ⚠️ **Note:** This was my first standalone analysis project.  
 > It focuses on revenue patterns only — without customer behavior or business hypothesis.  
 > A more complete and structured analysis is here:  
-> 👉 [TheLook E-Commerce — Customer Retention Analysis](https://github.com/MEQDAD0904/thelook-ecommerce-customer-retention-analysis-)
+> 👉 [TheLook E-Commerce — Customer Retention Analysis]([https://github.com/MEQDAD0904/thelook-ecommerce-customer-retention-analysis-](https://github.com/MEQDAD0904/retention-revenue-connection))
 
 ---
 
