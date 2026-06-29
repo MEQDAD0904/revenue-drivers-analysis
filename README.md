@@ -69,7 +69,7 @@ This project showed me that analyzing revenue in isolation is incomplete.
 Revenue numbers don't explain themselves — they're the result of customer decisions, product performance, and order patterns working together.
 
 This gap is what led me to build the next project:  
-👉 [Retention-Revenue-Connection]([https://github.com/MEQDAD0904/thelook-ecommerce-customer-retention-analysis-](https://github.com/MEQDAD0904/retention-revenue-connection))
+👉 ([https://github.com/MEQDAD0904/thelook-ecommerce-customer-retention-analysis-](https://github.com/MEQDAD0904/retention-revenue-connection))
 
 ---
 
